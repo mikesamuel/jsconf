@@ -23,7 +23,7 @@ $ node main.js \
 echo $?
 ```
 
-does not find any script elements but does complete the promise.
+does not obviously expose any JS parse trees but does complete the promise.
 
 ```bash
 $ node main.js \
