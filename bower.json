@@ -1,0 +1,21 @@
+{
+  "name": "jsconf",
+  "version": "0.0.0",
+  "authors": [
+    "Mike Samuel <mikesamuel@gmail.com>"
+  ],
+  "description": "Checks for problematic code patterns in Polymer apps",
+  "main": "main.js",
+  "license": "Apache2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "web-component-tester": "Polymer/web-component-tester#~3.3.10"
+  }
+}
