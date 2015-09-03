@@ -10,7 +10,7 @@ This project is in the early stages of development.  It is not ready to be used 
 * `policy.js` parses JSConformance policies -- JSON dumps of the Conformance.proto used by the original.
 * `closure_conformance.json` is a policy file that should work with `policy.js`.
 * `jsconf.js` will implement the policy checker once I can figure out how to feed it parse trees using Hydrolysis.
-
+* `foo.{html,js}` are test inputs.
 
 ## Blockage
 
